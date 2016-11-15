@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ratingMovie"
+        android:title="@string/nameForOptionToRateMovie"
+        android:icon="@drawable/rating"
+        android:orderInCategory="5"
+        android:showAsAction="ifRoom|withText">
+    </item>
+</menu>
